@@ -66,11 +66,12 @@ select {
 
 
 .btnReturn {
-    width: 100%;
+    width: 20%;
     padding: 10px;
     border-radius: 10px;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 40%;
     cursor: pointer;
     transition: all 0.4s;
 }
